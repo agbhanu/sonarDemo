@@ -2,7 +2,7 @@ package com.psl;
 
 public class HelloWorld {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         System.out.println(new HelloWorld().sumOfTwoNum(2,4));
     }
 
